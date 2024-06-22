@@ -31,7 +31,7 @@ This project is a simple REST API built with Node.js, Express, Sequelize ORM, an
 1. Clone the repository
     ```bash
     git clone https://github.com/axlrxlr/concise-rest-api.git
-    cd your-repo-name
+    cd concise-rest-api
     ```
 
 2. Install dependencies
